@@ -3,7 +3,7 @@
 <img src="https://travis-ci.org/benbalter/dc-wifi-social.png">
 
 
-### A collaborative list of DC locations that serve up both Internet and Alcohol
+### A collaborative list of ~~DC~~ **Baltimore** locations that serve up both Internet and Alcohol
 
 *Because coding together is better than coding alone (TM)*
 
@@ -12,6 +12,10 @@
 ## License
 
 CC-BY-SA
+
+## Idea / Fork Source
+
+@benbalter: https://github.com/benbalter/dc-wifi-social
 
 ## How to contribute
 
@@ -28,6 +32,7 @@ If you'd like to check yourself, you can run `./script/cibuild` locally, or past
 ## How to find the lat/long of a location
 
 Pop it into http://geocoder.us/. Boom.
+(Or use [geojson.io](http://geojson.io/#map=13/39.3101/-76.6248))
 
 ## Why?
 
