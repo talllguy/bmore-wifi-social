@@ -1,4 +1,4 @@
-# DC WiFi Social
+# Bmore WiFi Social
 
 <img src="https://travis-ci.org/benbalter/dc-wifi-social.png">
 
