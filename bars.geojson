@@ -1,3 +1,37 @@
 {
-
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Speakeasy",
+        "marker-symbol": "bar",
+        "wifi-pwd": "ask",
+        "address": "2840 O'Donnell St"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.57555997371674,
+          39.28043294961051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bad Decisions",
+        "marker-symbol": "bar",
+        "wifi-pwd": "ask",
+        "address": "1928 Fleet St"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.58889055252075,
+          39.28487168446649
+        ]
+      }
+    }
+  ]
 }
